@@ -1,0 +1,26 @@
+color collection:
+===================
+1. primary color	: #fe320a
+2.secondary color	: #
+3.Body text color	: #1e1e1e
+4.Heading color		: #151515
+5.black			: #000
+6.white			: #fff
+
+font family
+======================
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+==================================================
+templete full width	: 1600px
+content width		: 1170px
+======================================================
+section padding		:80px
+padding 		: 20px 45 px
+==================================================
+body font size		: 14 px
+line height		: 26px
